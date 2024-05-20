@@ -10,7 +10,7 @@ This software operates on a Click-To-Run model, requiring no external files or f
 Please refer to the screenshot below for a visual representation of the program's interface:
 ![](./assets/programInterfaceAPI.png)
 
-> [!INFO]
+> [!TIP]
 > This program supports the following Operating System :
 > 1. Windows Vista and above (but maybe with a bug)
 > 2. Windows 10 and above (recommended)
